@@ -1,0 +1,6 @@
+body {
+    font: 13px Verdana;
+}
+.arc path {
+    stroke: #000;
+}
